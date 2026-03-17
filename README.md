@@ -144,4 +144,5 @@ MIT License — free to use, modify, and distribute.
 
 Made with ❤️ by **Steven Deng**
 
-If you find this useful, give the repo a ⭐update README
+If you find this useful, give the repo a ⭐
+update README
