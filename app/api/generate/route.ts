@@ -24,4 +24,5 @@ export async function POST(req: NextRequest) {
       { status: 500 }
     );
   }
-}add API route
+}
+add API route
