@@ -648,4 +648,3 @@ export default function Home() {
     </main>
   );
 }
-add main page UI
