@@ -647,4 +647,5 @@ export default function Home() {
       `}</style>
     </main>
   );
-}add main page UI
+}
+add main page UI
